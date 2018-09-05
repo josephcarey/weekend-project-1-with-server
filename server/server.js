@@ -7,4 +7,4 @@ const PORT = 5000;
 
 app.use( express.static( 'server/public' ) );
 
-app.listen( PORT, e => { console.log( 'Listening on port', PORT, '...' ) } );
+app.listen( PORT, () => { console.log( 'Listening on port', PORT, '...' ) } );
