@@ -1,0 +1,11 @@
+caption {
+    text-align: left;
+}
+
+tfoot {
+    text-align: right;
+}
+
+.container {
+    margin-bottom: 20px;
+}
