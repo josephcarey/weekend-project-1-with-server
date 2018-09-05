@@ -1,0 +1,22 @@
+{
+  "name": "weekend-project-1-with-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephcarey/weekend-project-1-with-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephcarey/weekend-project-1-with-server/issues"
+  },
+  "homepage": "https://github.com/josephcarey/weekend-project-1-with-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
